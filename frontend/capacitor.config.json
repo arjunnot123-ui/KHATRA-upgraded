@@ -1,0 +1,12 @@
+{
+  "appId": "com.khatra.safetysim",
+  "appName": "KHATRA",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "minSdkVersion": 29,
+    "allowMixedContent": false
+  }
+}

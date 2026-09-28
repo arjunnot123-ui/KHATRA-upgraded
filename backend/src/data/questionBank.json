@@ -1,0 +1,2221 @@
+[
+  {
+    "id": "FE-01",
+    "domain": "Fire & Explosion Response",
+    "topic": "Evacuation Procedure",
+    "difficulty": "easy",
+    "questionType": "true-false",
+    "question": "True or False: You should use the elevator to exit quickly during a fire evacuation.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Elevators can lose power, malfunction, or open directly onto a smoke-filled floor during a fire. Stairs are the only safe evacuation route.",
+    "safetyPrinciple": "Never use elevators during a fire evacuation."
+  },
+  {
+    "id": "FE-02",
+    "domain": "Fire & Explosion Response",
+    "topic": "Alarm & Reporting",
+    "difficulty": "easy",
+    "questionType": "MCQ",
+    "question": "The fire alarm sounds while you are mid-task. What should you do first?",
+    "options": [
+      "Finish the current step, then leave",
+      "Stop work immediately and evacuate",
+      "Call your supervisor first",
+      "Wait for someone to confirm it's real"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Any delay during an active alarm costs evacuation time you may not get back. Stop the moment the alarm sounds.",
+    "safetyPrinciple": "Alarm sounds mean immediate evacuation, no exceptions."
+  },
+  {
+    "id": "FE-03",
+    "domain": "Fire & Explosion Response",
+    "topic": "Muster Point Protocol",
+    "difficulty": "easy",
+    "questionType": "MCQ",
+    "question": "After evacuating during a fire, where should you go?",
+    "options": [
+      "Back to your workstation to grab belongings",
+      "The designated muster/assembly point",
+      "The nearest canteen",
+      "Wherever is most convenient to park"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The muster point is where headcount is confirmed. Going anywhere else delays knowing whether everyone is safe.",
+    "safetyPrinciple": "Always report to the designated muster point."
+  },
+  {
+    "id": "FE-04",
+    "domain": "Fire & Explosion Response",
+    "topic": "Extinguisher Use",
+    "difficulty": "easy",
+    "questionType": "true-false",
+    "question": "True or False: Any single fire extinguisher can be used safely on any type of fire.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Using the wrong extinguisher class (e.g. water on an electrical or oil fire) can make the fire worse or cause electrocution.",
+    "safetyPrinciple": "Always match the extinguisher class to the fire type."
+  },
+  {
+    "id": "FE-05",
+    "domain": "Fire & Explosion Response",
+    "topic": "Flammable Material Handling",
+    "difficulty": "easy",
+    "questionType": "MCQ",
+    "question": "What is the primary hazard when transferring flammable liquid between two containers?",
+    "options": [
+      "Spillage only",
+      "Static electricity buildup causing ignition",
+      "Container weight",
+      "Liquid discoloration"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Static discharge during liquid transfer is a well-known ignition source and a common cause of explosions.",
+    "safetyPrinciple": "Bond and ground containers before transferring flammable liquids."
+  },
+  {
+    "id": "FE-06",
+    "domain": "Fire & Explosion Response",
+    "topic": "Hazard Recognition",
+    "difficulty": "easy",
+    "questionType": "MCQ",
+    "question": "You notice smoke but cannot locate the source. What should you do?",
+    "options": [
+      "Search for it yourself",
+      "Raise the alarm immediately and let trained responders investigate",
+      "Open more doors for ventilation",
+      "Ignore it since there's no visible flame"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Searching for a fire source yourself risks smoke inhalation and getting trapped — that is what trained responders are for.",
+    "safetyPrinciple": "Report smoke immediately rather than investigating it yourself."
+  },
+  {
+    "id": "FE-07",
+    "domain": "Fire & Explosion Response",
+    "topic": "Extinguisher Use",
+    "difficulty": "easy",
+    "questionType": "MCQ",
+    "question": "Before using a fire extinguisher, what should you confirm first?",
+    "options": [
+      "Its color",
+      "That its inspection tag is current and not expired",
+      "Its brand",
+      "Nothing — just use it"
+    ],
+    "correctAnswer": 1,
+    "explanation": "An unverified extinguisher may have lost pressure or malfunctioned. A current inspection tag confirms it will work when needed.",
+    "safetyPrinciple": "Only trust extinguishers with a current inspection tag."
+  },
+  {
+    "id": "FE-08",
+    "domain": "Fire & Explosion Response",
+    "topic": "Extinguisher Use",
+    "difficulty": "medium",
+    "questionType": "MCQ",
+    "question": "A fire has started in a bin containing flammable liquid waste. Which extinguisher should you use?",
+    "options": [
+      "Water",
+      "A CO2 or foam extinguisher rated for flammable liquids",
+      "Sand only",
+      "Any extinguisher within reach"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Water on a flammable-liquid fire can spread burning liquid and worsen the fire. CO2/foam is rated for this fire class.",
+    "safetyPrinciple": "Check the extinguisher's rated class before using it on a liquid fire."
+  },
+  {
+    "id": "FE-09",
+    "domain": "Fire & Explosion Response",
+    "topic": "Evacuation Procedure",
+    "difficulty": "medium",
+    "questionType": "scenario",
+    "question": "You are mid-task on a machine, about 80% complete, when the fire alarm sounds.",
+    "options": [
+      "Finish the task since it's almost done",
+      "Stop immediately, leave the machine in a safe state only if it takes a second, and evacuate",
+      "Wait for a colleague's decision",
+      "Continue until smoke is visible"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Evacuation always takes priority over finishing a task once the alarm sounds.",
+    "safetyPrinciple": "Stop work the instant the alarm sounds."
+  },
+  {
+    "id": "FE-10",
+    "domain": "Fire & Explosion Response",
+    "topic": "Fire Escalation Judgment",
+    "difficulty": "medium",
+    "questionType": "scenario",
+    "question": "You are fighting a small fire with an extinguisher, but the flames suddenly grow and smoke fills the area.",
+    "options": [
+      "Continue fighting since you already started",
+      "Abandon extinguishing, evacuate via the nearest safe route, and report to the muster point",
+      "Call your family",
+      "Try a different extinguisher"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Once a fire exceeds what a handheld extinguisher can control, continuing to fight it risks your life — evacuation overrides firefighting.",
+    "safetyPrinciple": "Evacuation always overrides firefighting once a fire escalates."
+  },
+  {
+    "id": "FE-11",
+    "domain": "Fire & Explosion Response",
+    "topic": "Muster Point Protocol",
+    "difficulty": "medium",
+    "questionType": "MCQ",
+    "question": "At the muster point, a colleague wants to slip back inside to check on equipment before an all-clear is given.",
+    "options": [
+      "Let them go — it's their choice",
+      "Stop them — re-entry is not allowed until an official all-clear is given",
+      "Go with them",
+      "Report it only after the incident"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Re-entering before an all-clear is one of the most common causes of injury during fire emergencies.",
+    "safetyPrinciple": "No re-entry until a formal all-clear is given."
+  },
+  {
+    "id": "FE-12",
+    "domain": "Fire & Explosion Response",
+    "topic": "Hazard Recognition",
+    "difficulty": "medium",
+    "questionType": "hazard-identification",
+    "question": "Which of the following represents the clearest fire/explosion risk?",
+    "options": [
+      "Neatly stacked flammable drums with grounding straps attached",
+      "Open solvent containers near active welding sparks",
+      "Extinguishers with current inspection tags",
+      "Marked, unobstructed exits"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Open flammable vapors combined with an active ignition source (welding sparks) is a direct fire/explosion risk.",
+    "safetyPrinciple": "Keep ignition sources away from flammable vapors at all times."
+  },
+  {
+    "id": "FE-13",
+    "domain": "Fire & Explosion Response",
+    "topic": "Flammable Material Handling",
+    "difficulty": "medium",
+    "questionType": "PPE-selection",
+    "question": "Which precaution is critical before transferring flammable liquid between drums?",
+    "options": [
+      "Sunglasses",
+      "A bonding/grounding strap between containers",
+      "Ear plugs",
+      "Steel-toe boots only"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Bonding and grounding equalizes static charge between containers and is mandatory before transferring flammable liquids.",
+    "safetyPrinciple": "Bond and ground containers before any flammable liquid transfer."
+  },
+  {
+    "id": "FE-14",
+    "domain": "Fire & Explosion Response",
+    "topic": "Extinguisher Use",
+    "difficulty": "medium",
+    "questionType": "MCQ",
+    "question": "You find a fire extinguisher near your station with a missing inspection tag. What should you do?",
+    "options": [
+      "Assume it works and move on",
+      "Report it immediately for inspection or replacement",
+      "Use it only in emergencies without reporting",
+      "Move it to another area"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Extinguishers must be current on inspection to be trusted in a real emergency.",
+    "safetyPrinciple": "Report any extinguisher with an expired or missing tag right away."
+  },
+  {
+    "id": "FE-15",
+    "domain": "Fire & Explosion Response",
+    "topic": "Evacuation Procedure",
+    "difficulty": "medium",
+    "questionType": "sequence-order",
+    "question": "Arrange the correct sequence of actions on discovering a small fire.",
+    "options": [
+      "Fight the fire only if small and you are trained, otherwise evacuate",
+      "Raise the alarm",
+      "Identify your nearest safe exit",
+      "Report to the muster point"
+    ],
+    "correctAnswer": [
+      2,
+      1,
+      0,
+      3
+    ],
+    "explanation": "Identify your exit first, raise the alarm, then decide to fight or evacuate, and finally report to the muster point.",
+    "safetyPrinciple": "Always confirm your exit before engaging any fire."
+  },
+  {
+    "id": "FE-16",
+    "domain": "Fire & Explosion Response",
+    "topic": "Evacuation Procedure",
+    "difficulty": "medium",
+    "questionType": "multi-select",
+    "question": "Which of the following are correct actions during a workplace fire evacuation? (Select all that apply.)",
+    "options": [
+      "Use the elevator to save time",
+      "Close doors behind you if safe, to slow fire spread",
+      "Alert others nearby as you evacuate",
+      "Stop to collect personal belongings",
+      "Follow marked evacuation routes"
+    ],
+    "correctAnswer": [
+      1,
+      2,
+      4
+    ],
+    "explanation": "Closing doors, alerting others, and following marked routes all improve evacuation safety; elevators and collecting belongings both cost critical time.",
+    "safetyPrinciple": "Prioritize speed and marked routes over belongings during evacuation."
+  },
+  {
+    "id": "FE-17",
+    "domain": "Fire & Explosion Response",
+    "topic": "Fire Escalation Judgment",
+    "difficulty": "medium",
+    "questionType": "scenario",
+    "question": "A small fire has just been extinguished and the area looks clear.",
+    "options": [
+      "Resume work immediately since the fire is out",
+      "Wait for the area to be inspected and cleared by a safety officer before resuming",
+      "Turn on all machines to test them",
+      "Leave without reporting"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A fire that 'looks out' can still have hidden hot spots or damaged equipment. Formal clearance confirms there's no re-ignition risk.",
+    "safetyPrinciple": "Never resume operations before formal safety clearance after a fire."
+  },
+  {
+    "id": "FE-18",
+    "domain": "Fire & Explosion Response",
+    "topic": "Evacuation Procedure",
+    "difficulty": "hard",
+    "questionType": "scenario",
+    "question": "You are in a room with fire behind you and thick smoke filling the space above waist height.",
+    "options": [
+      "Stand and walk quickly to the exit",
+      "Stay low and move below the smoke layer toward the nearest exit",
+      "Wait for the smoke to clear",
+      "Break a window and jump"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Staying low keeps you below the hottest, most toxic smoke layer, giving you clearer air and better visibility to the exit.",
+    "safetyPrinciple": "Stay low under smoke to avoid heat and toxic fumes."
+  },
+  {
+    "id": "FE-19",
+    "domain": "Fire & Explosion Response",
+    "topic": "Fire Escalation Judgment",
+    "difficulty": "hard",
+    "questionType": "multi-select",
+    "question": "Which conditions indicate a fire has grown beyond what a portable extinguisher can safely handle? (Select all that apply.)",
+    "options": [
+      "The fire exceeds the extinguisher's rated capacity",
+      "The fire blocks your only escape route",
+      "Thick smoke is rapidly filling the room",
+      "The fire is still small and contained to the original material"
+    ],
+    "correctAnswer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "Any of these three conditions means firefighting should stop and evacuation should begin immediately.",
+    "safetyPrinciple": "Stop fighting a fire the moment it outgrows your extinguisher or blocks your exit."
+  },
+  {
+    "id": "FE-20",
+    "domain": "Fire & Explosion Response",
+    "topic": "Flammable Material Handling",
+    "difficulty": "hard",
+    "questionType": "sequence-order",
+    "question": "Order the correct steps for safe flammable liquid drum transfer.",
+    "options": [
+      "Begin a slow, controlled transfer",
+      "Attach a bonding/grounding strap between containers",
+      "Inspect containers and area for ignition sources",
+      "Monitor for leaks or spills throughout"
+    ],
+    "correctAnswer": [
+      2,
+      1,
+      0,
+      3
+    ],
+    "explanation": "Inspect first, bond/ground the containers, then transfer slowly while monitoring continuously for leaks.",
+    "safetyPrinciple": "Never skip inspection and grounding, even for a 'quick' transfer."
+  },
+  {
+    "id": "FE-21",
+    "domain": "Fire & Explosion Response",
+    "topic": "Fire Escalation Judgment",
+    "difficulty": "hard",
+    "questionType": "MCQ",
+    "question": "Which factor should NOT influence your decision to keep fighting a fire with a handheld extinguisher?",
+    "options": [
+      "Fire size versus the extinguisher's rated capacity",
+      "Whether your exit route remains clear",
+      "Peer pressure not to look like you gave up",
+      "Smoke density in the room"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Safety decisions must be based on fire size, exit access, and smoke conditions — never on how it looks to others.",
+    "safetyPrinciple": "Base fire-fighting decisions on hazard conditions, never on peer pressure."
+  },
+  {
+    "id": "FE-22",
+    "domain": "Fire & Explosion Response",
+    "topic": "Evacuation Procedure",
+    "difficulty": "hard",
+    "questionType": "scenario",
+    "question": "You must pass near an active small fire to reach the only marked exit, with no alternate route available.",
+    "options": [
+      "Wait indefinitely for it to burn out",
+      "Move quickly and low, staying as far from the fire as the path allows, then exit",
+      "Try to extinguish it first regardless of size",
+      "Break through a wall"
+    ],
+    "correctAnswer": 1,
+    "explanation": "When no alternate route exists, moving quickly and staying as far from the fire as possible minimizes exposure while still reaching safety.",
+    "safetyPrinciple": "Maximize distance from the fire while moving decisively toward the exit."
+  },
+  {
+    "id": "FE-23",
+    "domain": "Fire & Explosion Response",
+    "topic": "Hazard Recognition",
+    "difficulty": "hard",
+    "questionType": "hazard-identification",
+    "question": "On a plant floor, which combination poses the highest explosion risk?",
+    "options": [
+      "Grinding sparks near a fuel storage area",
+      "Grinding sparks near a water station",
+      "Machinery running near safety signage",
+      "Workers wearing PPE near an exit"
+    ],
+    "correctAnswer": 0,
+    "explanation": "An ignition source (sparks) near flammable fuel storage is a direct explosion risk and must be separated or eliminated immediately.",
+    "safetyPrinciple": "Keep ignition sources far from flammable/fuel storage areas."
+  },
+  {
+    "id": "FE-24",
+    "domain": "Fire & Explosion Response",
+    "topic": "Fire Escalation Judgment",
+    "difficulty": "hard",
+    "questionType": "MCQ",
+    "question": "You see smoke but are unsure whether it's from a fire or normal process exhaust.",
+    "options": [
+      "Assume it's harmless and continue working",
+      "Report it immediately so responders can verify",
+      "Investigate alone to confirm before reporting",
+      "Ask coworkers instead of reporting"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Reporting immediately lets trained responders verify quickly — delaying to investigate yourself wastes critical time if it is a real fire.",
+    "safetyPrinciple": "When in doubt about smoke, report immediately — never assume."
+  },
+  {
+    "id": "FE-25",
+    "domain": "Fire & Explosion Response",
+    "topic": "Fire Escalation Judgment",
+    "difficulty": "hard",
+    "questionType": "multi-select",
+    "question": "Before resuming work after a fire is extinguished, which of the following must be true? (Select all that apply.)",
+    "options": [
+      "The area has been formally inspected and cleared by a safety officer",
+      "No hidden hot spots or damaged equipment remain",
+      "The fire looked out to the nearest worker",
+      "Ventilation/smoke has cleared"
+    ],
+    "correctAnswer": [
+      0,
+      1,
+      3
+    ],
+    "explanation": "Formal inspection, absence of hidden hazards, and cleared ventilation are all required — a worker's impression that it 'looks out' is not sufficient.",
+    "safetyPrinciple": "Only a formal safety clearance — not a visual impression — authorizes resuming work."
+  },
+  {
+    "id": "GC-01",
+    "domain": "Gas Leak & Confined Space Protocol",
+    "topic": "Confined Space Entry Permit",
+    "difficulty": "easy",
+    "questionType": "true-false",
+    "question": "True or False: You can enter a confined space without a permit if you will only be inside for a minute.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Permit requirements are based on the hazard of the space, not the duration of entry. Even brief entries require a permit and atmospheric test.",
+    "safetyPrinciple": "No confined space entry without a valid permit, regardless of duration."
+  },
+  {
+    "id": "GC-02",
+    "domain": "Gas Leak & Confined Space Protocol",
+    "topic": "Confined Space Entry Permit",
+    "difficulty": "easy",
+    "questionType": "MCQ",
+    "question": "What must be done before anyone enters a confined space?",
+    "options": [
+      "Just check for obvious hazards",
+      "Obtain a confined space entry permit and complete an atmospheric test",
+      "Turn on the lights",
+      "Bring a buddy only"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A permit and atmospheric test confirm the space is safe to enter and document who is inside and why.",
+    "safetyPrinciple": "Permit and atmospheric testing come before any confined space entry."
+  },
+  {
+    "id": "GC-03",
+    "domain": "Gas Leak & Confined Space Protocol",
+    "topic": "Gas Detection",
+    "difficulty": "easy",
+    "questionType": "MCQ",
+    "question": "You smell gas near a work area. What is your first action?",
+    "options": [
+      "Try to judge severity by smell alone",
+      "Alert others, move away from the area, and report per protocol",
+      "Try to find the leak source yourself",
+      "Open windows and continue working"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Gas leaks can escalate quickly and some gases are dangerous even when undetectable by smell. Report immediately rather than investigating yourself.",
+    "safetyPrinciple": "Report suspected gas leaks immediately — never investigate them yourself."
+  },
+  {
+    "id": "GC-04",
+    "domain": "Gas Leak & Confined Space Protocol",
+    "topic": "Confined Space Entry Permit",
+    "difficulty": "easy",
+    "questionType": "true-false",
+    "question": "True or False: A confined space is safe to enter if it looks empty and well-lit.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Visual appearance says nothing about the atmosphere inside. Hazardous or oxygen-deficient air can be completely invisible.",
+    "safetyPrinciple": "Atmosphere must be tested — appearance is never a substitute."
+  },
+  {
+    "id": "GC-05",
+    "domain": "Gas Leak & Confined Space Protocol",
+    "topic": "Gas Detection",
+    "difficulty": "easy",
+    "questionType": "MCQ",
+    "question": "Which gas detector reading should stop entry immediately?",
+    "options": [
+      "Oxygen level at 20.9%",
+      "Oxygen below the safe threshold, or explosive gas detected",
+      "Any nonzero reading of any gas",
+      "Detector battery below 50%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Oxygen deficiency or explosive gas presence are direct indicators that the space is unsafe to enter.",
+    "safetyPrinciple": "Stop entry immediately on any unsafe atmospheric reading."
+  },
+  {
+    "id": "GC-06",
+    "domain": "Gas Leak & Confined Space Protocol",
+    "topic": "Confined Space Entry Permit",
+    "difficulty": "easy",
+    "questionType": "MCQ",
+    "question": "Which sign indicates a possible confined space hazard?",
+    "options": [
+      "An open, ventilated room with two exits",
+      "Restricted entry/exit with poor ventilation and potential hazardous atmosphere",
+      "Bright lighting",
+      "Wide doorways"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Limited entry/exit combined with poor ventilation is the classic definition of a confined space hazard.",
+    "safetyPrinciple": "Restricted access plus poor ventilation defines a confined space risk."
+  },
+  {
+    "id": "GC-07",
+    "domain": "Gas Leak & Confined Space Protocol",
+    "topic": "PPE & Respiratory Protection",
+    "difficulty": "easy",
+    "questionType": "MCQ",
+    "question": "What is required before entering a space with a potential low-oxygen atmosphere?",
+    "options": [
+      "A regular dust mask",
+      "Appropriate respiratory protection based on the atmospheric test results",
+      "Sunglasses",
+      "Nothing, if you feel fine"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A dust mask does not supply oxygen or filter oxygen-deficient air. Respiratory protection must match the actual tested hazard.",
+    "safetyPrinciple": "Match respiratory protection to the tested atmosphere, never assumption."
+  },
+  {
+    "id": "GC-08",
+    "domain": "Gas Leak & Confined Space Protocol",
+    "topic": "Ventilation",
+    "difficulty": "medium",
+    "questionType": "scenario",
+    "question": "You are about to enter a tank. The gas meter reads oxygen at 18%, below the 19.5% minimum safe threshold.",
+    "options": [
+      "Enter briefly holding your breath",
+      "Do not enter — ventilate the space and retest until levels are safe",
+      "Enter with a dust mask only",
+      "Enter but leave the hatch open"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Entering with unsafe oxygen levels, even briefly, can cause rapid unconsciousness. Ventilate and confirm safe readings before entry.",
+    "safetyPrinciple": "Never enter until oxygen and gas readings confirm the space is safe."
+  },
+  {
+    "id": "GC-09",
+    "domain": "Gas Leak & Confined Space Protocol",
+    "topic": "Rescue Protocol",
+    "difficulty": "medium",
+    "questionType": "scenario",
+    "question": "A coworker collapses inside a confined space you are monitoring from outside.",
+    "options": [
+      "Immediately enter to pull them out",
+      "Do not enter without proper rescue equipment and backup — activate the emergency rescue procedure",
+      "Shout for help and wait passively",
+      "Lower a rope and leave"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Whatever caused the collapse (often a hazardous atmosphere) can just as easily incapacitate an untrained rescuer, creating a second casualty.",
+    "safetyPrinciple": "Never attempt an untrained rescue entry — activate the emergency rescue plan."
+  },
+  {
+    "id": "GC-10",
+    "domain": "Gas Leak & Confined Space Protocol",
+    "topic": "Ventilation",
+    "difficulty": "medium",
+    "questionType": "MCQ",
+    "question": "Why is continuous mechanical ventilation often required during confined space work?",
+    "options": [
+      "It keeps the space cool",
+      "It helps maintain safe atmospheric conditions and dilutes hazardous gases",
+      "It reduces noise",
+      "It's optional if the space is large"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Ventilation actively dilutes and removes hazardous gases that could otherwise accumulate during the work.",
+    "safetyPrinciple": "Maintain ventilation throughout the work, not just before entry."
+  },
+  {
+    "id": "GC-11",
+    "domain": "Gas Leak & Confined Space Protocol",
+    "topic": "Confined Space Entry Permit",
+    "difficulty": "medium",
+    "questionType": "hazard-identification",
+    "question": "Which combination represents the greatest confined space hazard?",
+    "options": [
+      "Well-marked entry, tested atmosphere, standby attendant present",
+      "Unmarked entry point, no atmospheric test, no attendant present",
+      "Portable lighting installed",
+      "A communication radio present"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The absence of testing, marking, and an attendant removes every safeguard that would normally catch a developing hazard.",
+    "safetyPrinciple": "Every safeguard — testing, marking, attendant — must be present, not optional."
+  },
+  {
+    "id": "GC-12",
+    "domain": "Gas Leak & Confined Space Protocol",
+    "topic": "PPE & Respiratory Protection",
+    "difficulty": "medium",
+    "questionType": "PPE-selection",
+    "question": "Which PPE is essential for a permit-required confined space entry with an atmosphere of unknown risk?",
+    "options": [
+      "Gloves only",
+      "Full atmospheric testing plus appropriate respiratory protection and a harness/retrieval line",
+      "Ear protection only",
+      "Standard uniform"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Unknown-risk atmospheres require both verified testing and a retrieval system in case rescue becomes necessary.",
+    "safetyPrinciple": "Unknown atmosphere means full testing and retrieval equipment, not partial PPE."
+  },
+  {
+    "id": "GC-13",
+    "domain": "Gas Leak & Confined Space Protocol",
+    "topic": "Confined Space Entry Permit",
+    "difficulty": "medium",
+    "questionType": "MCQ",
+    "question": "Who must be present at the entry point while a worker is inside a permit-required confined space?",
+    "options": [
+      "No one — it's not required",
+      "A trained attendant maintaining continuous communication",
+      "Only a supervisor's phone number on file",
+      "Another random worker on break"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A dedicated, trained attendant must monitor the entrant continuously and be ready to summon help immediately.",
+    "safetyPrinciple": "A trained attendant must be present for the full duration of entry."
+  },
+  {
+    "id": "GC-14",
+    "domain": "Gas Leak & Confined Space Protocol",
+    "topic": "Confined Space Entry Permit",
+    "difficulty": "medium",
+    "questionType": "multi-select",
+    "question": "Which of the following are required elements of a confined space entry permit? (Select all that apply.)",
+    "options": [
+      "Atmospheric test results",
+      "Names of entrants and attendant",
+      "Duration/time limit of entry",
+      "Lunch break schedule",
+      "Emergency rescue procedure"
+    ],
+    "correctAnswer": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explanation": "A valid permit documents test results, personnel, time limits, and the rescue plan — a lunch schedule is unrelated to entry safety.",
+    "safetyPrinciple": "A complete permit documents atmosphere, people, time, and rescue plan."
+  },
+  {
+    "id": "GC-15",
+    "domain": "Gas Leak & Confined Space Protocol",
+    "topic": "Confined Space Entry Permit",
+    "difficulty": "medium",
+    "questionType": "sequence-order",
+    "question": "Order the correct confined space entry sequence.",
+    "options": [
+      "Enter with the attendant maintaining contact",
+      "Obtain the entry permit",
+      "Test the atmosphere and ventilate if needed",
+      "Continuously monitor air quality during work"
+    ],
+    "correctAnswer": [
+      1,
+      2,
+      0,
+      3
+    ],
+    "explanation": "Permit first, then atmospheric testing/ventilation, then entry with an attendant, then continuous monitoring throughout the work.",
+    "safetyPrinciple": "Permit, then test, then enter with an attendant, then monitor continuously."
+  },
+  {
+    "id": "GC-16",
+    "domain": "Gas Leak & Confined Space Protocol",
+    "topic": "Gas Detection",
+    "difficulty": "medium",
+    "questionType": "scenario",
+    "question": "Midway through confined space work, your gas monitor alarm sounds, indicating rising toxic gas levels.",
+    "options": [
+      "Finish the task quickly then leave",
+      "Evacuate immediately and notify the attendant",
+      "Silence the alarm and continue",
+      "Move to a corner of the space and wait"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A rising gas alarm means conditions are actively becoming unsafe — evacuate immediately rather than trying to finish the task.",
+    "safetyPrinciple": "A gas alarm means immediate evacuation, not task completion."
+  },
+  {
+    "id": "GC-17",
+    "domain": "Gas Leak & Confined Space Protocol",
+    "topic": "Gas Detection",
+    "difficulty": "medium",
+    "questionType": "MCQ",
+    "question": "You notice a faint hissing sound and a slight smell near a gas pipeline junction.",
+    "options": [
+      "Ignore it since there's no visible leak",
+      "Report it immediately as a possible gas leak",
+      "Investigate the pipeline yourself with a lighter to check",
+      "Wait until your shift ends to mention it"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A hissing sound and smell near a gas line are classic early leak indicators and must be reported immediately, never investigated with an ignition source.",
+    "safetyPrinciple": "Report suspected leaks immediately — never use an ignition source to investigate."
+  },
+  {
+    "id": "GC-18",
+    "domain": "Gas Leak & Confined Space Protocol",
+    "topic": "Rescue Protocol",
+    "difficulty": "hard",
+    "questionType": "scenario",
+    "question": "As the standby attendant, the entrant stops responding to your radio calls, though your own gas meter outside shows safe readings.",
+    "options": [
+      "Enter immediately alone to check on them",
+      "Do NOT enter alone — activate the emergency rescue plan and summon trained rescue personnel",
+      "Assume they turned off their radio and wait",
+      "Leave your post to get help"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Conditions inside can differ from outside readings. An untrained solo entry risks a second casualty — the rescue plan exists for exactly this situation.",
+    "safetyPrinciple": "Never enter alone for rescue — always activate the trained rescue plan."
+  },
+  {
+    "id": "GC-19",
+    "domain": "Gas Leak & Confined Space Protocol",
+    "topic": "Gas Detection",
+    "difficulty": "hard",
+    "questionType": "multi-select",
+    "question": "Which conditions require re-testing the atmosphere during ongoing confined space work? (Select all that apply.)",
+    "options": [
+      "A change in work activity that could release gas",
+      "After every scheduled break or re-entry",
+      "If ventilation is interrupted",
+      "Only once at the very start is enough"
+    ],
+    "correctAnswer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "Atmosphere can change during work — a new activity, a break/re-entry, or lost ventilation all warrant a fresh test.",
+    "safetyPrinciple": "Re-test the atmosphere whenever conditions could have changed."
+  },
+  {
+    "id": "GC-20",
+    "domain": "Gas Leak & Confined Space Protocol",
+    "topic": "Rescue Protocol",
+    "difficulty": "hard",
+    "questionType": "sequence-order",
+    "question": "Order the emergency response steps if a toxic gas alarm triggers while workers are inside a confined space.",
+    "options": [
+      "Account for all personnel at a safe assembly point",
+      "Sound the alarm / alert all entrants to evacuate",
+      "Activate the rescue plan for anyone not accounted for",
+      "Stop work and move away from the source"
+    ],
+    "correctAnswer": [
+      1,
+      3,
+      0,
+      2
+    ],
+    "explanation": "Alert everyone first, move away from the source, account for personnel, then activate rescue for anyone unaccounted for.",
+    "safetyPrinciple": "Alert, move to safety, account for everyone, then activate rescue if needed."
+  },
+  {
+    "id": "GC-21",
+    "domain": "Gas Leak & Confined Space Protocol",
+    "topic": "Rescue Protocol",
+    "difficulty": "hard",
+    "questionType": "MCQ",
+    "question": "Why is an untrained coworker's self-rescue attempt discouraged in confined space emergencies?",
+    "options": [
+      "It takes too long",
+      "It often results in a second casualty from the same hazardous atmosphere",
+      "It is against policy for no safety reason",
+      "It costs more in equipment"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The same hazardous atmosphere that incapacitated the first person can just as easily incapacitate an untrained rescuer.",
+    "safetyPrinciple": "Untrained rescue attempts frequently create a second victim."
+  },
+  {
+    "id": "GC-22",
+    "domain": "Gas Leak & Confined Space Protocol",
+    "topic": "Confined Space Entry Permit",
+    "difficulty": "hard",
+    "questionType": "hazard-identification",
+    "question": "Which of these confined spaces poses the HIGHEST combined risk?",
+    "options": [
+      "A ventilated pit with continuous gas monitoring and a trained attendant",
+      "An unventilated tank with residual chemical vapors and a single restricted entry point",
+      "A large open shed with two exits",
+      "A room with normal oxygen and no chemical history"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Residual vapors, no ventilation, and a single restricted exit combine the worst of atmospheric and access hazards.",
+    "safetyPrinciple": "Residual vapors plus a single restricted exit is a maximum-risk combination."
+  },
+  {
+    "id": "GC-23",
+    "domain": "Gas Leak & Confined Space Protocol",
+    "topic": "PPE & Respiratory Protection",
+    "difficulty": "hard",
+    "questionType": "scenario",
+    "question": "Atmospheric testing shows the space is now IDLH (immediately dangerous to life or health) for a toxic gas.",
+    "options": [
+      "Enter with a standard dust mask since time is short",
+      "Do not enter without SCBA (self-contained breathing apparatus) and full rescue backup",
+      "Enter quickly without any respirator",
+      "Wait an hour without ventilating"
+    ],
+    "correctAnswer": 1,
+    "explanation": "IDLH conditions require the highest level of respiratory protection (SCBA) and a full rescue backup plan before any entry.",
+    "safetyPrinciple": "IDLH atmospheres require SCBA and full rescue backup, no exceptions."
+  },
+  {
+    "id": "GC-24",
+    "domain": "Gas Leak & Confined Space Protocol",
+    "topic": "Gas Detection",
+    "difficulty": "hard",
+    "questionType": "MCQ",
+    "question": "What is the purpose of continuous atmospheric monitoring, rather than just a single test, during confined space work?",
+    "options": [
+      "It's a formality with no real purpose",
+      "Conditions can change during the work, so ongoing monitoring catches new hazards",
+      "To track how long the worker has been inside",
+      "To measure temperature only"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Gas conditions inside a confined space can shift during work — continuous monitoring catches hazards a single upfront test would miss.",
+    "safetyPrinciple": "Atmosphere must be monitored continuously, not just once at entry."
+  },
+  {
+    "id": "GC-25",
+    "domain": "Gas Leak & Confined Space Protocol",
+    "topic": "Rescue Protocol",
+    "difficulty": "hard",
+    "questionType": "multi-select",
+    "question": "Which of the following are valid reasons to immediately suspend confined space work? (Select all that apply.)",
+    "options": [
+      "Gas meter alarm activates",
+      "Ventilation equipment fails",
+      "Entrant reports feeling fine",
+      "Communication with the attendant is lost"
+    ],
+    "correctAnswer": [
+      0,
+      1,
+      3
+    ],
+    "explanation": "An alarm, failed ventilation, or lost communication are all immediate stop conditions; a self-report of feeling fine does not override those signals.",
+    "safetyPrinciple": "Stop work immediately on any alarm, ventilation failure, or lost communication."
+  },
+  {
+    "id": "ML-01",
+    "domain": "Machinery Safety & Lockout-Tagout",
+    "topic": "Lockout-Tagout Procedure",
+    "difficulty": "easy",
+    "questionType": "true-false",
+    "question": "True or False: It is safe to perform quick maintenance on a running machine if you're careful.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Machines must be fully de-energized and locked out before any maintenance, regardless of how quick or careful the task seems.",
+    "safetyPrinciple": "Never perform maintenance on energized or running equipment."
+  },
+  {
+    "id": "ML-02",
+    "domain": "Machinery Safety & Lockout-Tagout",
+    "topic": "Lockout-Tagout Procedure",
+    "difficulty": "easy",
+    "questionType": "MCQ",
+    "question": "What is the purpose of Lockout-Tagout (LOTO)?",
+    "options": [
+      "To decorate machines with warning tags",
+      "To isolate and de-energize equipment before maintenance so it cannot start unexpectedly",
+      "To track machine usage hours",
+      "To identify machine owners"
+    ],
+    "correctAnswer": 1,
+    "explanation": "LOTO physically prevents a machine from being energized or started while someone is servicing it.",
+    "safetyPrinciple": "LOTO exists to prevent unexpected machine start-up during service."
+  },
+  {
+    "id": "ML-03",
+    "domain": "Machinery Safety & Lockout-Tagout",
+    "topic": "Pre-start Checks",
+    "difficulty": "easy",
+    "questionType": "MCQ",
+    "question": "Before starting any machine, what should you do first?",
+    "options": [
+      "Skip inspection if you're in a hurry",
+      "Perform a pre-start safety check of guards, controls, and surroundings",
+      "Ask a coworker to check later",
+      "Start it and see if anything looks wrong"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A pre-start check catches missing guards, faulty controls, or nearby hazards before the machine is energized.",
+    "safetyPrinciple": "Always complete a pre-start check before operating machinery."
+  },
+  {
+    "id": "ML-04",
+    "domain": "Machinery Safety & Lockout-Tagout",
+    "topic": "Guarding",
+    "difficulty": "easy",
+    "questionType": "true-false",
+    "question": "True or False: Machine guards can be removed permanently if they slow down production.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Guards protect against contact with moving parts. Removing them permanently exposes workers to serious injury regardless of production speed.",
+    "safetyPrinciple": "Guards must never be permanently removed for convenience or speed."
+  },
+  {
+    "id": "ML-05",
+    "domain": "Machinery Safety & Lockout-Tagout",
+    "topic": "Lockout-Tagout Procedure",
+    "difficulty": "easy",
+    "questionType": "MCQ",
+    "question": "Who is authorized to remove a lockout lock from equipment?",
+    "options": [
+      "Any worker who needs the machine",
+      "Only the person who applied it, or an authorized supervisor per procedure",
+      "Whoever finds the key",
+      "Security staff only"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Only the person who applied the lock (or an authorized substitute per formal procedure) may remove it, ensuring no one is still working on the equipment.",
+    "safetyPrinciple": "Only the applying worker or an authorized process may remove a lockout lock."
+  },
+  {
+    "id": "ML-06",
+    "domain": "Machinery Safety & Lockout-Tagout",
+    "topic": "Hazard Recognition",
+    "difficulty": "easy",
+    "questionType": "MCQ",
+    "question": "Which of these is a clear machinery hazard?",
+    "options": [
+      "A machine with all guards in place and an accessible E-stop",
+      "A machine running with a safety guard removed and no lock applied",
+      "A machine with a visible maintenance log",
+      "A machine area with clear walkways"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A running machine with a missing guard exposes moving parts directly to contact — an immediate hazard.",
+    "safetyPrinciple": "A missing guard on a running machine is an immediate hazard."
+  },
+  {
+    "id": "ML-07",
+    "domain": "Machinery Safety & Lockout-Tagout",
+    "topic": "Emergency Stop",
+    "difficulty": "easy",
+    "questionType": "MCQ",
+    "question": "You see a coworker's hand near moving machine parts in an unsafe way. What should you do?",
+    "options": [
+      "Wait and see what happens",
+      "Immediately alert them or hit the emergency stop if in reach",
+      "Take a photo to report later",
+      "Assume they know what they're doing"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Immediate action — alerting them or hitting the E-stop — can prevent an injury that documentation afterward cannot undo.",
+    "safetyPrinciple": "Act immediately on any unsafe contact with moving machine parts."
+  },
+  {
+    "id": "ML-08",
+    "domain": "Machinery Safety & Lockout-Tagout",
+    "topic": "Lockout-Tagout Procedure",
+    "difficulty": "medium",
+    "questionType": "scenario",
+    "question": "You need to clear a jam inside a machine that is currently only 'paused', not powered off.",
+    "options": [
+      "Reach in quickly since it's paused",
+      "Fully de-energize and lock out the machine before reaching inside",
+      "Ask a coworker to hold the pause button",
+      "Use a stick instead of your hand while it's running"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A paused machine can restart unexpectedly. Full de-energization and lockout is required before reaching into any machine.",
+    "safetyPrinciple": "A paused machine is not a de-energized machine — always lock out first."
+  },
+  {
+    "id": "ML-09",
+    "domain": "Machinery Safety & Lockout-Tagout",
+    "topic": "Guarding",
+    "difficulty": "medium",
+    "questionType": "scenario",
+    "question": "A machine guard was removed for maintenance, and the job is now finished.",
+    "options": [
+      "Leave it off since it's more convenient",
+      "Reinstall the guard before returning the machine to service",
+      "Leave it off only if someone complains",
+      "Leave a warning sign instead of reinstalling it"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Guards must be reinstalled before the machine returns to service — a sign is not a substitute for physical protection.",
+    "safetyPrinciple": "Reinstall all guards before returning a machine to service."
+  },
+  {
+    "id": "ML-10",
+    "domain": "Machinery Safety & Lockout-Tagout",
+    "topic": "PPE for Machinery",
+    "difficulty": "medium",
+    "questionType": "MCQ",
+    "question": "Which PPE consideration is important when operating rotating machinery?",
+    "options": [
+      "Loose sleeves and jewelry for comfort",
+      "Close-fitting clothing, no loose jewelry, and appropriate guards/eye protection",
+      "Sandals for easy movement",
+      "No PPE if experienced"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Loose clothing or jewelry can be caught by rotating parts and pull a worker into the machine.",
+    "safetyPrinciple": "Avoid loose clothing/jewelry near rotating machinery."
+  },
+  {
+    "id": "ML-11",
+    "domain": "Machinery Safety & Lockout-Tagout",
+    "topic": "Hazard Recognition",
+    "difficulty": "medium",
+    "questionType": "hazard-identification",
+    "question": "Which combination represents the highest machinery risk?",
+    "options": [
+      "A trained operator, guards in place, LOTO applied during maintenance",
+      "An untrained worker, a missing guard, machine energized during a 'quick fix'",
+      "A machine with an updated maintenance log",
+      "An operator wearing correct PPE"
+    ],
+    "correctAnswer": 1,
+    "explanation": "An untrained worker on energized equipment with a missing guard combines the three worst risk factors at once.",
+    "safetyPrinciple": "Untrained work on energized, unguarded equipment is maximum risk."
+  },
+  {
+    "id": "ML-12",
+    "domain": "Machinery Safety & Lockout-Tagout",
+    "topic": "Lockout-Tagout Procedure",
+    "difficulty": "medium",
+    "questionType": "MCQ",
+    "question": "Before clearing a jam by hand in de-energized equipment, what additional step matters most?",
+    "options": [
+      "Verify zero energy state (attempt the start control after lockout)",
+      "Just switch off the light",
+      "Ask a coworker to watch",
+      "Nothing else is needed"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Attempting the start control after applying lockout confirms the isolation actually worked before anyone puts hands near the machine.",
+    "safetyPrinciple": "Always verify zero energy before reaching into locked-out equipment."
+  },
+  {
+    "id": "ML-13",
+    "domain": "Machinery Safety & Lockout-Tagout",
+    "topic": "Lockout-Tagout Procedure",
+    "difficulty": "medium",
+    "questionType": "MCQ",
+    "question": "How many locks/tags should be applied if multiple workers are servicing the same machine?",
+    "options": [
+      "Only one lock total is allowed",
+      "Each worker applies their own lock/tag (multiple-lock system) so it can't restart until everyone removes theirs",
+      "No locks are needed for team jobs",
+      "Locks are optional for teams"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A multiple-lock (group lockout) system ensures the machine cannot be re-energized until every worker has removed their own lock.",
+    "safetyPrinciple": "Every worker on a shared job applies their own lock."
+  },
+  {
+    "id": "ML-14",
+    "domain": "Machinery Safety & Lockout-Tagout",
+    "topic": "Lockout-Tagout Procedure",
+    "difficulty": "medium",
+    "questionType": "multi-select",
+    "question": "Which of the following are required steps in a proper LOTO procedure? (Select all that apply.)",
+    "options": [
+      "Notify affected workers",
+      "De-energize and isolate all energy sources",
+      "Apply lock and tag",
+      "Verify zero energy state",
+      "Leave the machine running to test isolation"
+    ],
+    "correctAnswer": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explanation": "Notification, isolation, locking, and verification are all required — the machine must be off, never left running to 'test' isolation.",
+    "safetyPrinciple": "Notify, isolate, lock/tag, and verify — never test isolation while running."
+  },
+  {
+    "id": "ML-15",
+    "domain": "Machinery Safety & Lockout-Tagout",
+    "topic": "Lockout-Tagout Procedure",
+    "difficulty": "medium",
+    "questionType": "sequence-order",
+    "question": "Order the correct Lockout-Tagout sequence.",
+    "options": [
+      "Verify zero energy (attempt to start)",
+      "Apply lock and tag to the isolation point",
+      "Notify affected workers and shut down the machine normally",
+      "Isolate all energy sources"
+    ],
+    "correctAnswer": [
+      2,
+      3,
+      1,
+      0
+    ],
+    "explanation": "Notify and shut down first, isolate energy sources, apply the lock/tag, then verify zero energy before work begins.",
+    "safetyPrinciple": "Notify, shut down, isolate, lock/tag, then verify — in that order."
+  },
+  {
+    "id": "ML-16",
+    "domain": "Machinery Safety & Lockout-Tagout",
+    "topic": "Emergency Stop",
+    "difficulty": "medium",
+    "questionType": "scenario",
+    "question": "You're operating a machine and notice unusual grinding noise and vibration.",
+    "options": [
+      "Continue operating since it still works",
+      "Stop the machine immediately and report the abnormality for inspection",
+      "Increase speed to clear whatever is causing it",
+      "Ignore it until end of shift"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Unusual noise or vibration often signals a developing mechanical failure that could become dangerous if ignored.",
+    "safetyPrinciple": "Stop and report any abnormal machine noise or vibration immediately."
+  },
+  {
+    "id": "ML-17",
+    "domain": "Machinery Safety & Lockout-Tagout",
+    "topic": "Housekeeping",
+    "difficulty": "medium",
+    "questionType": "MCQ",
+    "question": "Why is keeping the area around machinery clear of clutter important?",
+    "options": [
+      "It only looks tidy for inspections",
+      "Clutter can cause trips/falls into moving parts and blocks emergency access",
+      "It's not important if workers are careful",
+      "It only matters for large machines"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Clutter near machinery creates trip hazards toward moving parts and can block emergency stop access or evacuation.",
+    "safetyPrinciple": "Keep machinery areas clear to prevent trips and preserve emergency access."
+  },
+  {
+    "id": "ML-18",
+    "domain": "Machinery Safety & Lockout-Tagout",
+    "topic": "Emergency Stop",
+    "difficulty": "hard",
+    "questionType": "scenario",
+    "question": "A machine's emergency stop button doesn't respond during a routine test.",
+    "options": [
+      "Continue using the machine — it's probably a rare fault",
+      "Take the machine out of service immediately and report it for repair before further use",
+      "Use it carefully and report it at the end of the day",
+      "Bypass the E-stop and operate manually"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A non-functional E-stop removes a critical safety control. The machine must be taken out of service immediately, not used 'carefully'.",
+    "safetyPrinciple": "A failed emergency stop means immediate removal from service."
+  },
+  {
+    "id": "ML-19",
+    "domain": "Machinery Safety & Lockout-Tagout",
+    "topic": "Lockout-Tagout Procedure",
+    "difficulty": "hard",
+    "questionType": "multi-select",
+    "question": "Which situations require re-applying LOTO even mid-task? (Select all that apply.)",
+    "options": [
+      "Switching to a different energy source on the same machine",
+      "Handing off the task to another worker who needs their own lock",
+      "A brief pause where you personally never lose physical control",
+      "Returning after a shift change"
+    ],
+    "correctAnswer": [
+      0,
+      1,
+      3
+    ],
+    "explanation": "A new energy source, a handoff to another worker, or a shift change all require fresh lockout application; maintaining personal continuous control does not.",
+    "safetyPrinciple": "Re-apply LOTO on any handoff, new energy source, or shift change."
+  },
+  {
+    "id": "ML-20",
+    "domain": "Machinery Safety & Lockout-Tagout",
+    "topic": "Lockout-Tagout Procedure",
+    "difficulty": "hard",
+    "questionType": "sequence-order",
+    "question": "Order the correct response when a machine unexpectedly starts moving during maintenance despite LOTO being applied.",
+    "options": [
+      "Investigate and correct the LOTO failure before any further work",
+      "Stop work and ensure everyone is clear of moving parts",
+      "Report the incident per near-miss/safety protocol",
+      "Re-verify isolation and zero energy state"
+    ],
+    "correctAnswer": [
+      1,
+      3,
+      0,
+      2
+    ],
+    "explanation": "Stop work and clear the area first, re-verify isolation, investigate and correct the failure, then report the incident.",
+    "safetyPrinciple": "Clear the area first, then re-verify, correct, and report a LOTO failure."
+  },
+  {
+    "id": "ML-21",
+    "domain": "Machinery Safety & Lockout-Tagout",
+    "topic": "Lockout-Tagout Procedure",
+    "difficulty": "hard",
+    "questionType": "MCQ",
+    "question": "Why is attempting the start button after lockout considered a required step rather than optional?",
+    "options": [
+      "It wastes time",
+      "It confirms the isolation actually worked before anyone puts hands near the machine",
+      "It's just tradition",
+      "It checks the button's function only"
+    ],
+    "correctAnswer": 1,
+    "explanation": "This verification step is the only way to confirm the energy isolation actually succeeded before hands go near the machine.",
+    "safetyPrinciple": "Verification of zero energy is mandatory, not a formality."
+  },
+  {
+    "id": "ML-22",
+    "domain": "Machinery Safety & Lockout-Tagout",
+    "topic": "Hazard Recognition",
+    "difficulty": "hard",
+    "questionType": "hazard-identification",
+    "question": "Which scenario is the MOST dangerous machinery lockout violation?",
+    "options": [
+      "A worker applies their own lock before starting a repair",
+      "A supervisor removes another worker's lock without their knowledge to speed up production",
+      "A worker double-checks zero energy state",
+      "A team uses a multi-lock hasp for a shared job"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Removing someone else's lock without their knowledge can re-energize a machine while that person is still working on it — an extremely dangerous violation.",
+    "safetyPrinciple": "Never remove another worker's lock without their direct knowledge."
+  },
+  {
+    "id": "ML-23",
+    "domain": "Machinery Safety & Lockout-Tagout",
+    "topic": "Lockout-Tagout Procedure",
+    "difficulty": "hard",
+    "questionType": "scenario",
+    "question": "You must reach into a pinch-point area of a de-energized machine to retrieve a dropped tool.",
+    "options": [
+      "Reach in quickly with bare hands since it's off",
+      "Confirm LOTO is applied and verified before reaching in, using appropriate PPE",
+      "Ask someone to turn the machine slightly to help you see",
+      "Use your foot instead of your hand"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Even a de-energized machine should be confirmed locked out and verified before any body part enters a pinch-point area.",
+    "safetyPrinciple": "Confirm and verify lockout before reaching into any pinch-point, however briefly."
+  },
+  {
+    "id": "ML-24",
+    "domain": "Machinery Safety & Lockout-Tagout",
+    "topic": "Lockout-Tagout Procedure",
+    "difficulty": "hard",
+    "questionType": "MCQ",
+    "question": "A contractor unfamiliar with your site needs to service a machine. What must happen before they start?",
+    "options": [
+      "Let them proceed since they're an expert",
+      "They must be briefed on and follow the site's LOTO procedure like any employee",
+      "No briefing is needed for contractors",
+      "Only their own company's rules apply"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Site-specific hazards and procedures may differ from what a contractor is used to — a briefing on local LOTO procedure is mandatory.",
+    "safetyPrinciple": "All contractors must follow site LOTO procedure after a proper briefing."
+  },
+  {
+    "id": "ML-25",
+    "domain": "Machinery Safety & Lockout-Tagout",
+    "topic": "Guarding",
+    "difficulty": "hard",
+    "questionType": "multi-select",
+    "question": "Which of the following indicate a machine is NOT safe to restart after maintenance? (Select all that apply.)",
+    "options": [
+      "A guard is still removed",
+      "A lock/tag from another worker is still attached",
+      "All tools have been removed and guards reinstalled",
+      "The maintenance log has not been signed off"
+    ],
+    "correctAnswer": [
+      0,
+      1,
+      3
+    ],
+    "explanation": "A missing guard, another worker's lock still attached, or an unsigned maintenance log are all reasons the machine is not yet ready to restart.",
+    "safetyPrinciple": "Do not restart until all guards, locks, and sign-offs confirm the machine is ready."
+  },
+  {
+    "id": "EH-01",
+    "domain": "Electrical Hazard Response",
+    "topic": "Damaged Equipment Reporting",
+    "difficulty": "easy",
+    "questionType": "true-false",
+    "question": "True or False: It is safe to use an electrical tool with a frayed or damaged cord as long as it still works.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A damaged cord can expose live conductors, creating a serious shock or fire hazard regardless of whether the tool still functions.",
+    "safetyPrinciple": "Never use electrical equipment with damaged cords or insulation."
+  },
+  {
+    "id": "EH-02",
+    "domain": "Electrical Hazard Response",
+    "topic": "Emergency Response to Electrical Injury",
+    "difficulty": "easy",
+    "questionType": "MCQ",
+    "question": "You find a coworker who has been shocked and is still in contact with the live source. What is your first action?",
+    "options": [
+      "Grab them to pull them away",
+      "Cut power at the source, or use a non-conductive object to separate them — never touch them directly while energized",
+      "Pour water on them",
+      "Wait for them to let go"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Touching someone still in contact with a live source can electrocute you too. Cut power first, or use a non-conductive object.",
+    "safetyPrinciple": "Never touch a person still in contact with a live electrical source."
+  },
+  {
+    "id": "EH-03",
+    "domain": "Electrical Hazard Response",
+    "topic": "De-energizing for Electrical Work",
+    "difficulty": "easy",
+    "questionType": "MCQ",
+    "question": "Before working on any electrical equipment, what must be done?",
+    "options": [
+      "Just switch it off at the wall",
+      "De-energize, verify zero voltage, and apply lockout-tagout",
+      "Wear rubber slippers only",
+      "Nothing, if you're experienced"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A switch position alone doesn't guarantee zero voltage — de-energizing, testing, and locking out are all required.",
+    "safetyPrinciple": "De-energize, test, and lock out before any electrical work."
+  },
+  {
+    "id": "EH-04",
+    "domain": "Electrical Hazard Response",
+    "topic": "Wet Conditions",
+    "difficulty": "easy",
+    "questionType": "true-false",
+    "question": "True or False: Water and electricity are a dangerous combination, and wet-hand contact with electrical equipment increases shock risk.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Water is highly conductive, and wet skin significantly lowers electrical resistance, increasing shock severity.",
+    "safetyPrinciple": "Keep electrical equipment and wet conditions strictly separated."
+  },
+  {
+    "id": "EH-05",
+    "domain": "Electrical Hazard Response",
+    "topic": "Overloaded Circuits",
+    "difficulty": "easy",
+    "questionType": "MCQ",
+    "question": "Which of these is a sign of an overloaded circuit?",
+    "options": [
+      "A cool, quiet outlet",
+      "A warm outlet, frequent breaker trips, or a burning smell",
+      "A neatly labeled panel",
+      "Steady, normal operation"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Heat, repeated trips, or a burning smell are early warning signs of an overloaded or faulty circuit.",
+    "safetyPrinciple": "Report warmth, frequent trips, or burning smells from electrical outlets immediately."
+  },
+  {
+    "id": "EH-06",
+    "domain": "Electrical Hazard Response",
+    "topic": "Hazard Recognition",
+    "difficulty": "easy",
+    "questionType": "MCQ",
+    "question": "Which is a clear electrical hazard?",
+    "options": [
+      "Properly grounded equipment with intact insulation",
+      "Exposed live wiring near a wet floor",
+      "Panels labeled and closed",
+      "Extension cords rated for the load"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Exposed live wiring combined with a wet floor is a direct and severe shock hazard.",
+    "safetyPrinciple": "Exposed wiring near moisture is an immediate hazard requiring action."
+  },
+  {
+    "id": "EH-07",
+    "domain": "Electrical Hazard Response",
+    "topic": "Damaged Equipment Reporting",
+    "difficulty": "easy",
+    "questionType": "MCQ",
+    "question": "You notice a damaged extension cord with exposed wiring. What should you do?",
+    "options": [
+      "Wrap it in tape and keep using it",
+      "Take it out of service and report it for repair or replacement",
+      "Use it only for short tasks",
+      "Ignore it if no one has been shocked yet"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Tape is not a reliable repair for exposed wiring. Damaged cords must be removed from service and properly repaired or replaced.",
+    "safetyPrinciple": "Remove damaged electrical cords from service immediately."
+  },
+  {
+    "id": "EH-08",
+    "domain": "Electrical Hazard Response",
+    "topic": "De-energizing for Electrical Work",
+    "difficulty": "medium",
+    "questionType": "scenario",
+    "question": "You need to replace a component in a control panel that is currently powered.",
+    "options": [
+      "Work carefully while it's live since you're trained",
+      "De-energize, lock out, and verify zero voltage before touching any components",
+      "Use insulated gloves and work live to save time",
+      "Ask a coworker to hold the switch off manually"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Working on live equipment should only ever be a last-resort, specially permitted exception — the default is always de-energize, lock out, and verify.",
+    "safetyPrinciple": "Default to de-energized work; live work requires special justification and precautions."
+  },
+  {
+    "id": "EH-09",
+    "domain": "Electrical Hazard Response",
+    "topic": "PPE for Electrical Work",
+    "difficulty": "medium",
+    "questionType": "MCQ",
+    "question": "What PPE is required when there is a risk of arc flash while working near energized equipment?",
+    "options": [
+      "Regular cotton clothing",
+      "Arc-rated flame-resistant clothing and face/eye protection rated for the hazard",
+      "Sunglasses",
+      "No PPE if the panel is closed"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Arc-rated PPE is specifically designed to protect against the extreme heat and energy of an arc flash event.",
+    "safetyPrinciple": "Match PPE to the assessed arc-flash hazard category."
+  },
+  {
+    "id": "EH-10",
+    "domain": "Electrical Hazard Response",
+    "topic": "Wet Conditions",
+    "difficulty": "medium",
+    "questionType": "scenario",
+    "question": "You need to use a portable electrical tool in an area with standing water on the floor.",
+    "options": [
+      "Proceed as usual — tools are insulated",
+      "Do not proceed until the area is dry or a properly rated GFCI-protected setup is confirmed safe",
+      "Wear gloves only and continue",
+      "Move the water aside with your foot and continue"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Standing water combined with electrical tools is a severe shock hazard unless the area is dried or proper GFCI protection is confirmed.",
+    "safetyPrinciple": "Never use electrical tools around standing water without confirmed GFCI protection."
+  },
+  {
+    "id": "EH-11",
+    "domain": "Electrical Hazard Response",
+    "topic": "Hazard Recognition",
+    "difficulty": "medium",
+    "questionType": "hazard-identification",
+    "question": "Which situation poses the highest electrical shock risk?",
+    "options": [
+      "A grounded tool used in a dry area",
+      "A damaged cord used near standing water without GFCI protection",
+      "A labeled panel with breakers off",
+      "A cord rated for the tool's load"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Damage plus moisture plus lack of GFCI protection combines three major shock-risk factors at once.",
+    "safetyPrinciple": "Damaged cords near water without GFCI protection are extreme risk."
+  },
+  {
+    "id": "EH-12",
+    "domain": "Electrical Hazard Response",
+    "topic": "PPE for Electrical Work",
+    "difficulty": "medium",
+    "questionType": "PPE-selection",
+    "question": "One circuit could not be fully isolated during de-energizing. Which PPE combination is appropriate for the remaining exposure?",
+    "options": [
+      "No gloves, just be careful",
+      "Insulated, voltage-rated gloves plus insulated tools appropriate for the voltage",
+      "Regular work gloves",
+      "Rubber boots only, no gloves"
+    ],
+    "correctAnswer": 1,
+    "explanation": "When full isolation isn't achieved, voltage-rated insulated gloves and tools matched to the voltage level are required.",
+    "safetyPrinciple": "Use voltage-rated insulated gloves and tools whenever full isolation isn't achieved."
+  },
+  {
+    "id": "EH-13",
+    "domain": "Electrical Hazard Response",
+    "topic": "De-energizing for Electrical Work",
+    "difficulty": "medium",
+    "questionType": "MCQ",
+    "question": "After switching off a circuit, what must you do before touching any conductor?",
+    "options": [
+      "Assume it's safe since the switch is off",
+      "Test with a properly rated voltage tester to verify zero energy",
+      "Touch it briefly to check",
+      "Wait five minutes only"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A rated voltage tester is the only reliable way to confirm zero energy — switch position and time elapsed are not sufficient proof.",
+    "safetyPrinciple": "Always test with a rated voltage tester before touching any conductor."
+  },
+  {
+    "id": "EH-14",
+    "domain": "Electrical Hazard Response",
+    "topic": "De-energizing for Electrical Work",
+    "difficulty": "medium",
+    "questionType": "multi-select",
+    "question": "Which of the following are required before working on de-energized electrical equipment? (Select all that apply.)",
+    "options": [
+      "Lockout-tagout applied",
+      "Voltage tested and confirmed zero",
+      "Equipment left plugged in for convenience",
+      "Affected workers notified"
+    ],
+    "correctAnswer": [
+      0,
+      1,
+      3
+    ],
+    "explanation": "Lockout, verified zero voltage, and notification are all required — equipment must never remain plugged in during service.",
+    "safetyPrinciple": "Never leave equipment plugged in while performing electrical service."
+  },
+  {
+    "id": "EH-15",
+    "domain": "Electrical Hazard Response",
+    "topic": "De-energizing for Electrical Work",
+    "difficulty": "medium",
+    "questionType": "sequence-order",
+    "question": "Order the correct steps for safely de-energizing equipment before electrical work.",
+    "options": [
+      "Test for zero voltage with a rated tester",
+      "Notify affected personnel and identify all energy sources",
+      "Apply a lockout/tagout device",
+      "Open the disconnect/switch to de-energize"
+    ],
+    "correctAnswer": [
+      1,
+      3,
+      2,
+      0
+    ],
+    "explanation": "Notify and identify sources first, open the disconnect, apply lockout/tagout, then test for zero voltage before work begins.",
+    "safetyPrinciple": "Notify, disconnect, lock out, then verify zero voltage — in that order."
+  },
+  {
+    "id": "EH-16",
+    "domain": "Electrical Hazard Response",
+    "topic": "Damaged Equipment Reporting",
+    "difficulty": "medium",
+    "questionType": "scenario",
+    "question": "You see sparks briefly coming from an electrical panel, then it stops.",
+    "options": [
+      "Ignore it since it stopped",
+      "Report it immediately and keep the area clear until inspected",
+      "Open the panel yourself to look inside",
+      "Reset the breaker repeatedly to test it"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A brief spark event can indicate a developing fault that could recur more severely. It must be reported and the area kept clear.",
+    "safetyPrinciple": "Report any sparking immediately, even if it appears to stop on its own."
+  },
+  {
+    "id": "EH-17",
+    "domain": "Electrical Hazard Response",
+    "topic": "Safe Distance from Live Lines",
+    "difficulty": "medium",
+    "questionType": "MCQ",
+    "question": "What should you do if you're working near an overhead power line with equipment that could reach it?",
+    "options": [
+      "Get as close as needed to finish the job faster",
+      "Maintain the legally required minimum safe distance at all times",
+      "Touch the line briefly to check if it's live",
+      "Only worry about it if the equipment is metal"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Minimum safe distances from live lines are set to prevent arcing/contact even without direct touch, and must always be maintained.",
+    "safetyPrinciple": "Always maintain the required minimum safe distance from live power lines."
+  },
+  {
+    "id": "EH-18",
+    "domain": "Electrical Hazard Response",
+    "topic": "Emergency Response to Electrical Injury",
+    "difficulty": "hard",
+    "questionType": "scenario",
+    "question": "A coworker has been shocked and is now unconscious but no longer in contact with the electrical source.",
+    "options": [
+      "Give them water and wait",
+      "Check responsiveness/breathing, call for emergency help, and begin first aid/CPR if trained while help arrives",
+      "Move them immediately regardless of injury",
+      "Leave them to recover on their own"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Once separated from the source, standard emergency response applies: check responsiveness, call for help, and provide first aid/CPR if trained.",
+    "safetyPrinciple": "After separation from the source, follow standard emergency first-aid response."
+  },
+  {
+    "id": "EH-19",
+    "domain": "Electrical Hazard Response",
+    "topic": "De-energizing for Electrical Work",
+    "difficulty": "hard",
+    "questionType": "multi-select",
+    "question": "Which conditions require treating equipment as energized even if it appears switched off? (Select all that apply.)",
+    "options": [
+      "No lockout/tagout has been applied",
+      "Zero voltage has not been verified with a tester",
+      "The switch position looks off",
+      "Someone told you it's off"
+    ],
+    "correctAnswer": [
+      0,
+      1
+    ],
+    "explanation": "Without lockout/tagout and verified zero voltage, equipment must always be treated as energized — switch appearance and secondhand assurance are not proof.",
+    "safetyPrinciple": "Only lockout/tagout plus a verified zero-voltage test confirm equipment is safe."
+  },
+  {
+    "id": "EH-20",
+    "domain": "Electrical Hazard Response",
+    "topic": "Emergency Response to Electrical Injury",
+    "difficulty": "hard",
+    "questionType": "sequence-order",
+    "question": "Order the correct emergency response if you find a coworker in contact with a live source and cannot safely reach the disconnect.",
+    "options": [
+      "Call for emergency medical help",
+      "Use a non-conductive object to separate them from the source if the disconnect can't be reached safely",
+      "Do not touch them directly while they remain energized",
+      "Begin first aid once safely separated"
+    ],
+    "correctAnswer": [
+      2,
+      1,
+      0,
+      3
+    ],
+    "explanation": "Never touch them directly first, then separate them safely with a non-conductive object, call for emergency help, then begin first aid.",
+    "safetyPrinciple": "Never touch directly; separate safely, call for help, then begin first aid."
+  },
+  {
+    "id": "EH-21",
+    "domain": "Electrical Hazard Response",
+    "topic": "De-energizing for Electrical Work",
+    "difficulty": "hard",
+    "questionType": "MCQ",
+    "question": "Why is assuming a switch position means the circuit is de-energized dangerous?",
+    "options": [
+      "Switches are always accurate",
+      "Wiring faults, back-feed, or mislabeled panels can leave a circuit live despite switch position — testing is required",
+      "It's not dangerous, just slow",
+      "It only applies to old buildings"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Faults, back-feed from another source, or mislabeling can all leave a circuit live regardless of switch position — only a rated tester confirms safety.",
+    "safetyPrinciple": "Only a verified voltage test — never switch position alone — confirms de-energization."
+  },
+  {
+    "id": "EH-22",
+    "domain": "Electrical Hazard Response",
+    "topic": "PPE for Electrical Work",
+    "difficulty": "hard",
+    "questionType": "hazard-identification",
+    "question": "Which of these represents the highest arc-flash risk task?",
+    "options": [
+      "Opening a de-energized, locked-out, and verified-dead panel",
+      "Racking a breaker in or out on an energized high-voltage panel without arc-rated PPE",
+      "Visually inspecting a closed panel from a distance",
+      "Reading a panel's label"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Racking a breaker on live high-voltage equipment without arc-rated PPE is one of the highest-risk arc-flash activities in electrical work.",
+    "safetyPrinciple": "Racking breakers on energized high-voltage equipment demands full arc-rated PPE."
+  },
+  {
+    "id": "EH-23",
+    "domain": "Electrical Hazard Response",
+    "topic": "PPE for Electrical Work",
+    "difficulty": "hard",
+    "questionType": "scenario",
+    "question": "You must approach a panel where full de-energization isn't possible due to critical process needs, and an arc-flash risk assessment shows present risk.",
+    "options": [
+      "Use standard clothing since you'll be quick",
+      "Wear the arc-rated PPE specified for that hazard category before any approach",
+      "Skip PPE if a supervisor is watching",
+      "Use PPE only if you personally feel unsafe"
+    ],
+    "correctAnswer": 1,
+    "explanation": "When a risk assessment shows arc-flash exposure, the specified arc-rated PPE for that hazard category is mandatory before any approach.",
+    "safetyPrinciple": "Follow the arc-flash risk assessment's specified PPE category exactly."
+  },
+  {
+    "id": "EH-24",
+    "domain": "Electrical Hazard Response",
+    "topic": "Hazard Recognition",
+    "difficulty": "hard",
+    "questionType": "MCQ",
+    "question": "What is the main danger of using a metal ladder near electrical work?",
+    "options": [
+      "It's heavier than fiberglass",
+      "It can conduct electricity and create a severe shock/arc-flash path",
+      "It's less stable",
+      "It rusts faster"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Metal ladders conduct electricity, creating a direct shock or arc-flash path if they contact a live component.",
+    "safetyPrinciple": "Never use a metal ladder near energized electrical equipment."
+  },
+  {
+    "id": "EH-25",
+    "domain": "Electrical Hazard Response",
+    "topic": "De-energizing for Electrical Work",
+    "difficulty": "hard",
+    "questionType": "multi-select",
+    "question": "Which of the following should trigger an immediate stop-work on an electrical task? (Select all that apply.)",
+    "options": [
+      "Voltage tester shows an unexpected live reading after de-energizing",
+      "Missing or damaged insulation on tools",
+      "Arc flash boundary unclear or unassessed",
+      "Task is slightly behind schedule"
+    ],
+    "correctAnswer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "An unexpected live reading, damaged tool insulation, or an unassessed arc-flash boundary are all safety-critical stop conditions; schedule pressure is never a valid reason to proceed unsafely.",
+    "safetyPrinciple": "Stop work immediately on any unresolved electrical safety uncertainty."
+  },
+  {
+    "id": "DR-01",
+    "domain": "Dust & Respiratory Hazard Protection",
+    "topic": "Respirator Selection & Fit",
+    "difficulty": "easy",
+    "questionType": "true-false",
+    "question": "True or False: A simple cloth face covering provides adequate protection against fine silica dust.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cloth coverings are not rated to filter fine silica particles. A properly rated respirator is required for this hazard.",
+    "safetyPrinciple": "Only properly rated respirators protect against fine silica dust."
+  },
+  {
+    "id": "DR-02",
+    "domain": "Dust & Respiratory Hazard Protection",
+    "topic": "Respirator Selection & Fit",
+    "difficulty": "easy",
+    "questionType": "MCQ",
+    "question": "What should you do before entering a high-dust area requiring a respirator?",
+    "options": [
+      "Just put any mask on",
+      "Select the correct respirator type and confirm proper fit for the hazard",
+      "Skip it if dust looks minor",
+      "Ask a coworker for their used mask"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The respirator type and fit must match the specific hazard — a mismatched or poorly fitted respirator provides little real protection.",
+    "safetyPrinciple": "Match respirator type and fit to the specific dust hazard."
+  },
+  {
+    "id": "DR-03",
+    "domain": "Dust & Respiratory Hazard Protection",
+    "topic": "Combustible Dust Hazards",
+    "difficulty": "easy",
+    "questionType": "MCQ",
+    "question": "Which of these increases combustible dust explosion risk?",
+    "options": [
+      "Regular dust cleanup with proper vacuum equipment",
+      "Accumulated dust layers left uncleaned near ignition sources",
+      "Enclosed dust collection systems",
+      "Grounded equipment"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Uncleaned dust layers near ignition sources are a classic precursor to combustible dust explosions.",
+    "safetyPrinciple": "Never let dust accumulate near potential ignition sources."
+  },
+  {
+    "id": "DR-04",
+    "domain": "Dust & Respiratory Hazard Protection",
+    "topic": "Respirator Selection & Fit",
+    "difficulty": "easy",
+    "questionType": "true-false",
+    "question": "True or False: You can determine if a respirator fits properly just by how it looks in a mirror.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Visual appearance does not confirm an airtight seal. A proper fit test is required to verify protection.",
+    "safetyPrinciple": "A visual check is never a substitute for a proper respirator fit test."
+  },
+  {
+    "id": "DR-05",
+    "domain": "Dust & Respiratory Hazard Protection",
+    "topic": "Dust Exposure Recognition",
+    "difficulty": "easy",
+    "questionType": "MCQ",
+    "question": "Why is silica dust particularly hazardous?",
+    "options": [
+      "It's harmless in small amounts",
+      "Fine silica particles can cause serious long-term lung disease (silicosis) when inhaled repeatedly",
+      "It only causes minor coughing",
+      "It affects only the skin"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Repeated inhalation of fine silica particles causes silicosis, a serious and irreversible lung disease.",
+    "safetyPrinciple": "Fine silica dust causes serious, irreversible lung damage over time."
+  },
+  {
+    "id": "DR-06",
+    "domain": "Dust & Respiratory Hazard Protection",
+    "topic": "Dust Exposure Recognition",
+    "difficulty": "easy",
+    "questionType": "MCQ",
+    "question": "Which situation shows a respiratory hazard needing action?",
+    "options": [
+      "A well-ventilated area with dust controls in place",
+      "A visible dust cloud during cutting/grinding with no ventilation or respirator",
+      "Workers wearing correctly fitted respirators",
+      "A wet-cutting method in use to suppress dust"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Visible dust with no ventilation or respiratory protection is a direct, unaddressed respiratory hazard.",
+    "safetyPrinciple": "Visible dust without controls or respirators requires immediate action."
+  },
+  {
+    "id": "DR-07",
+    "domain": "Dust & Respiratory Hazard Protection",
+    "topic": "Respirator Selection & Fit",
+    "difficulty": "easy",
+    "questionType": "MCQ",
+    "question": "What should you check on a respirator before each use?",
+    "options": [
+      "Nothing — just wear it",
+      "Straps, seal, filter condition, and overall fit",
+      "Only the color",
+      "Whether it matches your uniform"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A pre-use check of straps, seal, and filter condition ensures the respirator will actually provide protection during the task.",
+    "safetyPrinciple": "Inspect straps, seal, and filter condition before every use."
+  },
+  {
+    "id": "DR-08",
+    "domain": "Dust & Respiratory Hazard Protection",
+    "topic": "Respirator Selection & Fit",
+    "difficulty": "medium",
+    "questionType": "scenario",
+    "question": "You are assigned to a task generating fine silica dust for an extended period.",
+    "options": [
+      "Wear a basic dust mask since it's easier to breathe in",
+      "Use a properly rated respirator with a confirmed fit test",
+      "Skip the respirator if you take breaks",
+      "Use ear protection instead"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Extended fine-silica exposure requires a properly rated, fit-tested respirator — comfort should never override the required protection level.",
+    "safetyPrinciple": "Extended silica exposure requires a rated, fit-tested respirator, not a basic mask."
+  },
+  {
+    "id": "DR-09",
+    "domain": "Dust & Respiratory Hazard Protection",
+    "topic": "Ventilation & Engineering Controls",
+    "difficulty": "medium",
+    "questionType": "scenario",
+    "question": "You notice the dust extraction system at your workstation isn't running.",
+    "options": [
+      "Continue working — the respirator alone is enough",
+      "Report it and pause dust-generating work until ventilation/extraction is restored",
+      "Turn it off entirely since it's noisy",
+      "Move to another station without reporting"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Respirators are a last line of defense, not a replacement for engineering controls. A failed extraction system must be reported and fixed.",
+    "safetyPrinciple": "Engineering controls must be restored, not bypassed with PPE alone."
+  },
+  {
+    "id": "DR-10",
+    "domain": "Dust & Respiratory Hazard Protection",
+    "topic": "Housekeeping & Dust Control",
+    "difficulty": "medium",
+    "questionType": "MCQ",
+    "question": "Why should dust be cleaned using vacuum systems rather than dry sweeping or compressed air?",
+    "options": [
+      "Dry sweeping/compressed air is faster",
+      "Dry sweeping or compressed air can re-suspend fine or combustible dust into the air, increasing exposure and explosion risk",
+      "Vacuuming is required by tradition",
+      "It doesn't matter which method is used"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Dry sweeping and compressed air throw dust back into the air, increasing both inhalation exposure and combustible dust explosion risk.",
+    "safetyPrinciple": "Use vacuum systems, not dry sweeping or compressed air, for dust cleanup."
+  },
+  {
+    "id": "DR-11",
+    "domain": "Dust & Respiratory Hazard Protection",
+    "topic": "Combustible Dust Hazards",
+    "difficulty": "medium",
+    "questionType": "hazard-identification",
+    "question": "Which combination is the highest combustible dust risk?",
+    "options": [
+      "Clean floors, dust collection running, grounded equipment",
+      "Thick dust layers on overhead surfaces near hot equipment or sparks",
+      "A regular housekeeping schedule followed",
+      "Dust bins emptied regularly"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Accumulated dust near a heat or spark source is a direct precursor to a combustible dust explosion.",
+    "safetyPrinciple": "Thick dust layers near heat or sparks are a direct explosion precursor."
+  },
+  {
+    "id": "DR-12",
+    "domain": "Dust & Respiratory Hazard Protection",
+    "topic": "Respirator Selection & Fit",
+    "difficulty": "medium",
+    "questionType": "PPE-selection",
+    "question": "Which respirator is appropriate for a task where the specific contaminant and concentration are unknown and could be immediately dangerous?",
+    "options": [
+      "A basic disposable dust mask",
+      "A respirator is not appropriate — do not enter without proper atmosphere testing and IDLH-rated protection",
+      "Any respirator, since they're all the same",
+      "No protection needed if you can't smell anything"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Unknown, potentially IDLH atmospheres require atmosphere testing and the highest-rated protection, not an assumption based on smell.",
+    "safetyPrinciple": "Unknown, potentially IDLH atmospheres require testing and top-rated protection before entry."
+  },
+  {
+    "id": "DR-13",
+    "domain": "Dust & Respiratory Hazard Protection",
+    "topic": "Respirator Selection & Fit",
+    "difficulty": "medium",
+    "questionType": "MCQ",
+    "question": "Why is a proper respirator fit test necessary rather than just picking any size?",
+    "options": [
+      "It's a formality with no safety value",
+      "A poor seal lets contaminated air leak around the mask, reducing protection significantly",
+      "Fit only affects comfort, not protection",
+      "One size fits all workers equally"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A poor seal allows unfiltered contaminated air to bypass the filter entirely, undermining the respirator's protection.",
+    "safetyPrinciple": "A confirmed seal, not just size, determines real respiratory protection."
+  },
+  {
+    "id": "DR-14",
+    "domain": "Dust & Respiratory Hazard Protection",
+    "topic": "Ventilation & Engineering Controls",
+    "difficulty": "medium",
+    "questionType": "multi-select",
+    "question": "Which of the following reduce dust exposure risk? (Select all that apply.)",
+    "options": [
+      "Wet cutting/dust suppression methods",
+      "Local exhaust ventilation at the source",
+      "Leaving dust piles to settle naturally near walkways",
+      "Properly fitted respirators when engineering controls aren't enough"
+    ],
+    "correctAnswer": [
+      0,
+      1,
+      3
+    ],
+    "explanation": "Wet methods, local exhaust ventilation, and properly fitted respirators all reduce exposure; leaving dust piles to settle does not address the hazard.",
+    "safetyPrinciple": "Combine engineering controls with proper respirators; never rely on dust simply settling."
+  },
+  {
+    "id": "DR-15",
+    "domain": "Dust & Respiratory Hazard Protection",
+    "topic": "Ventilation & Engineering Controls",
+    "difficulty": "medium",
+    "questionType": "sequence-order",
+    "question": "Order the correct hierarchy of controls for reducing dust exposure, most preferred first.",
+    "options": [
+      "Personal protective equipment (respirator)",
+      "Administrative controls (e.g. rotating workers, limiting exposure time)",
+      "Engineering controls (ventilation, dust suppression)",
+      "Elimination/substitution of the dust-generating process if possible"
+    ],
+    "correctAnswer": [
+      3,
+      2,
+      1,
+      0
+    ],
+    "explanation": "The hierarchy of controls prioritizes elimination first, then engineering controls, then administrative controls, with PPE as the last resort.",
+    "safetyPrinciple": "Follow the hierarchy of controls: eliminate, engineer, administer, then PPE last."
+  },
+  {
+    "id": "DR-16",
+    "domain": "Dust & Respiratory Hazard Protection",
+    "topic": "Dust Exposure Recognition",
+    "difficulty": "medium",
+    "questionType": "scenario",
+    "question": "Air monitoring shows dust levels in your work area are above the permissible exposure limit.",
+    "options": [
+      "Continue as normal since you feel fine",
+      "Stop or limit exposure, improve controls, and use appropriate respiratory protection until levels are confirmed safe",
+      "Only wear a respirator during monitoring, not otherwise",
+      "Ignore it since the readings might be wrong"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Exceeding the permissible exposure limit requires action regardless of how a worker feels — symptoms often appear only after long-term damage has occurred.",
+    "safetyPrinciple": "Act on exposure monitoring data, not on how you currently feel."
+  },
+  {
+    "id": "DR-17",
+    "domain": "Dust & Respiratory Hazard Protection",
+    "topic": "Dust Exposure Recognition",
+    "difficulty": "medium",
+    "questionType": "MCQ",
+    "question": "A coworker has been coughing persistently after weeks of working in a dusty area without proper respirator use.",
+    "options": [
+      "Tell them to push through it",
+      "Encourage them to report symptoms and see occupational health, and review their respiratory protection",
+      "Assume it's unrelated to work",
+      "Only worry if they collapse"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Persistent coughing after prolonged dust exposure is a warning sign that should prompt medical review and a review of protective measures.",
+    "safetyPrinciple": "Persistent respiratory symptoms after dust exposure warrant prompt medical review."
+  },
+  {
+    "id": "DR-18",
+    "domain": "Dust & Respiratory Hazard Protection",
+    "topic": "Emergency Response to Respiratory Distress",
+    "difficulty": "hard",
+    "questionType": "scenario",
+    "question": "A coworker suddenly experiences difficulty breathing and dizziness while working in a dusty enclosed area.",
+    "options": [
+      "Have them keep working until the break",
+      "Move them to fresh air immediately, seek medical attention, and investigate the exposure source",
+      "Give them water only",
+      "Assume it's just fatigue"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sudden respiratory distress requires immediate removal to fresh air, medical attention, and investigation of the exposure source.",
+    "safetyPrinciple": "Respond to sudden respiratory distress with immediate fresh air and medical attention."
+  },
+  {
+    "id": "DR-19",
+    "domain": "Dust & Respiratory Hazard Protection",
+    "topic": "Combustible Dust Hazards",
+    "difficulty": "hard",
+    "questionType": "multi-select",
+    "question": "Which of the following indicate combustible dust explosion risk factors are present? (Select all that apply.)",
+    "options": [
+      "Fine combustible dust suspended or layered near ignition sources",
+      "Enclosed spaces where dust clouds could accumulate",
+      "Inert, non-combustible dust only present",
+      "Poor housekeeping with dust buildup on elevated surfaces"
+    ],
+    "correctAnswer": [
+      0,
+      1,
+      3
+    ],
+    "explanation": "Suspended/layered combustible dust near ignition sources, enclosed accumulation spaces, and poor housekeeping are all risk factors; purely inert dust is not combustible.",
+    "safetyPrinciple": "Combustible dust risk requires fuel, an ignition source, and accumulation — inert dust alone poses no explosion risk."
+  },
+  {
+    "id": "DR-20",
+    "domain": "Dust & Respiratory Hazard Protection",
+    "topic": "Dust Exposure Recognition",
+    "difficulty": "hard",
+    "questionType": "sequence-order",
+    "question": "Order the correct response steps when dust monitoring shows exposure above safe limits during an active task.",
+    "options": [
+      "Improve engineering controls (ventilation/suppression) before continuing",
+      "Notify affected workers and supervisor of the reading",
+      "Stop or limit the dust-generating task",
+      "Re-test air quality to confirm it's safe before resuming"
+    ],
+    "correctAnswer": [
+      1,
+      2,
+      0,
+      3
+    ],
+    "explanation": "Notify first, stop or limit the task, improve engineering controls, then re-test air quality before resuming full work.",
+    "safetyPrinciple": "Notify, stop, improve controls, then re-test before resuming."
+  },
+  {
+    "id": "DR-21",
+    "domain": "Dust & Respiratory Hazard Protection",
+    "topic": "Ventilation & Engineering Controls",
+    "difficulty": "hard",
+    "questionType": "MCQ",
+    "question": "Why is wearing a respirator considered the LAST line of defense rather than the first solution for dust hazards?",
+    "options": [
+      "Respirators are too expensive to rely on",
+      "Engineering and administrative controls reduce the hazard at the source, which is more reliable than depending on individual PPE use and fit",
+      "Respirators don't actually work",
+      "It's only a suggestion, not a real hierarchy"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Controls that remove or reduce the hazard at its source are inherently more reliable than depending on correct PPE use by every individual every time.",
+    "safetyPrinciple": "Source controls are more reliable than relying solely on individual PPE compliance."
+  },
+  {
+    "id": "DR-22",
+    "domain": "Dust & Respiratory Hazard Protection",
+    "topic": "Dust Exposure Recognition",
+    "difficulty": "hard",
+    "questionType": "hazard-identification",
+    "question": "Which scenario poses the greatest silicosis risk over time?",
+    "options": [
+      "Occasional light dust exposure with respirator and rotation",
+      "Daily prolonged exposure to fine silica dust without respiratory protection or ventilation",
+      "Wet-cutting with local exhaust ventilation",
+      "Outdoor work with natural airflow and PPE"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Daily, prolonged, unprotected exposure to fine silica dust is the clearest pathway to developing silicosis over time.",
+    "safetyPrinciple": "Daily unprotected silica exposure is the highest long-term lung disease risk."
+  },
+  {
+    "id": "DR-23",
+    "domain": "Dust & Respiratory Hazard Protection",
+    "topic": "Combustible Dust Hazards",
+    "difficulty": "hard",
+    "questionType": "scenario",
+    "question": "Your task requires entering an area where combustible dust concentration could be high, alongside potential ignition sources nearby.",
+    "options": [
+      "Wear a standard dust mask and proceed",
+      "Do not proceed until dust levels are controlled or ignition sources are eliminated — a respirator alone doesn't address explosion risk",
+      "Use ear protection instead",
+      "Only wear PPE if visibly dusty"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A respirator protects the wearer's lungs but does nothing to prevent a combustible dust explosion — the hazard itself must be controlled first.",
+    "safetyPrinciple": "A respirator does not address explosion risk — the dust/ignition hazard itself must be controlled."
+  },
+  {
+    "id": "DR-24",
+    "domain": "Dust & Respiratory Hazard Protection",
+    "topic": "Dust Exposure Recognition",
+    "difficulty": "hard",
+    "questionType": "MCQ",
+    "question": "What does a permissible exposure limit (PEL) represent?",
+    "options": [
+      "The maximum dust that can be seen before it's a problem",
+      "A regulatory limit on worker exposure concentration over a defined time period, above which controls are required",
+      "A suggestion with no regulatory basis",
+      "The amount of dust a respirator can filter"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A PEL is a defined regulatory exposure limit over a specified time period, not a visual estimate or informal suggestion.",
+    "safetyPrinciple": "A PEL is a defined, regulatory exposure limit, not a visual estimate."
+  },
+  {
+    "id": "DR-25",
+    "domain": "Dust & Respiratory Hazard Protection",
+    "topic": "Ventilation & Engineering Controls",
+    "difficulty": "hard",
+    "questionType": "multi-select",
+    "question": "Which of the following should be part of an effective dust control program? (Select all that apply.)",
+    "options": [
+      "Engineering controls like local exhaust ventilation",
+      "Regular housekeeping to prevent dust accumulation",
+      "Respirator fit testing for affected workers",
+      "Ignoring dust levels if no one complains"
+    ],
+    "correctAnswer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "Engineering controls, housekeeping, and fit testing are all core elements of an effective program; the absence of complaints is not a valid safety indicator.",
+    "safetyPrinciple": "An effective dust program combines engineering controls, housekeeping, and fit testing."
+  }
+]
